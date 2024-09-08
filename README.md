@@ -11,6 +11,7 @@ b) Format: Multiple choice and multiple response
 
 c) Cost: $100 (might vary by region)
 
+
 **2. Domains Covered:**
 
 
@@ -27,6 +28,7 @@ d) Billing and Pricing: 16%
 
 
 e) Passing Score: Typically around 700 out of 1000
+
 
 
 **3. Study Resources**
@@ -65,6 +67,7 @@ c) Pricing Overview
 Go through FAQs for AWS core services like **EC2, S3, Lambda, and RDS**, as they often appear in the exam.
 
 
+
 **4. Focus on Key Topics**
 
 
@@ -79,6 +82,7 @@ Go through FAQs for AWS core services like **EC2, S3, Lambda, and RDS**, as they
 **Billing and Pricing:** **AWS Free Tier, pricing models (On-Demand, Reserved Instances, Spot), Total Cost of Ownership (TCO), AWS Billing Dashboard.**
 
 
+
 **5. Hands-On Experience**
 
 
@@ -86,6 +90,7 @@ Go through FAQs for AWS core services like **EC2, S3, Lambda, and RDS**, as they
 
 
 **AWS Labs and Tutorials:** Complete practical tutorials using AWS labs to gain hands-on experience with core services.
+
 
 
 **6. Practice Exams and Mock Tests**
@@ -101,6 +106,7 @@ Free Practice Tests: Websites like **Whizlabs**, **Udemy**, and **Tutorial Dojo*
 
 
 Use these to assess your knowledge, timing, and readiness.
+
 
 
 **7. Additional Study Tips**
@@ -123,6 +129,7 @@ YouTube Tutorials:
 Free educational channels like **AWS Training & Certification, freeCodeCamp, or A Cloud Guru offer video tutorials** to simplify difficult topics.
 
 
+
 **8. Take Mock Exams**
 
 
@@ -134,7 +141,8 @@ Take mock exams under timed conditions to replicate the actual test environment.
 
 Review wrong answers to understand gaps in your knowledge.
 
-**8. Exam Day Tips**
+
+**9. Exam Day Tips**
 
 
 **Get Adequate Rest:** Ensure you’re well-rested before the exam day.
