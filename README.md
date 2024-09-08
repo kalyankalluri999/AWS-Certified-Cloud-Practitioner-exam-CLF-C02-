@@ -53,7 +53,7 @@ AWS FAQs:
 Go through FAQs for AWS core services like **EC2, S3, Lambda, and RDS**, as they often appear in the exam.
 
 
-**3. Focus on Key Topics**
+**4. Focus on Key Topics**
 
 
 **Cloud Concepts:** Basic cloud computing definitions, AWS global infrastructure, advantages of cloud computing.
@@ -68,7 +68,7 @@ Go through FAQs for AWS core services like **EC2, S3, Lambda, and RDS**, as they
 **Billing and Pricing:** AWS Free Tier, pricing models (On-Demand, Reserved Instances, Spot), Total Cost of Ownership (TCO), AWS Billing Dashboard.
 
 
-**4. Hands-On Experience**
+**5. Hands-On Experience**
 
 
 **Create an AWS Free Tier Account:** Use the AWS Free Tier to explore and practice basic tasks like launching EC2 instances, setting up S3 buckets, and exploring IAM.
@@ -77,14 +77,14 @@ Go through FAQs for AWS core services like **EC2, S3, Lambda, and RDS**, as they
 **AWS Labs and Tutorials:** Complete practical tutorials using AWS labs to gain hands-on experience with core services.
 
 
-**5. Practice Exams and Mock Tests**
+**6. Practice Exams and Mock Tests**
 Official AWS Practice Exam:
 AWS offers an official practice exam.
 Free Practice Tests: Websites like **Whizlabs**, **Udemy**, and **Tutorial Dojo** offer paid and free practice exams.
 Use these to assess your knowledge, timing, and readiness.
 
 
-**6. Additional Study Tips**
+**7. Additional Study Tips**
 Join Study Groups and Forums:
 Join online communities (like Reddit’s r/aws, AWS Cloud Practitioner groups on LinkedIn, etc.) to ask questions, share resources, and learn from others' experiences.
 Flashcards:
@@ -95,7 +95,7 @@ YouTube Tutorials:
 Free educational channels like AWS Training & Certification, freeCodeCamp, or A Cloud Guru offer video tutorials to simplify difficult topics.
 
 
-**7. Take Mock Exams**
+**8. Take Mock Exams**
 Simulate Exam Conditions:
 Take mock exams under timed conditions to replicate the actual test environment.
 Review wrong answers to understand gaps in your knowledge.
