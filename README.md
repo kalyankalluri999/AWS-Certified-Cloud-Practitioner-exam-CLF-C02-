@@ -1,8 +1,14 @@
 To crack and pass the **CLF-C02 AWS Certified Cloud Practitioner exam**, you need a structured approach focusing on learning the fundamentals of AWS, practicing with real-world scenarios, and getting familiar with the exam format. Here’s a step-by-step guide to help you prepare:
 
 **1. Understand the Exam Structure**
+
+
 Exam Duration: 90 minutes
+
+
 Format: Multiple choice and multiple response
+
+
 Cost: $100 (might vary by region)
 
 **2. Domains Covered:**
