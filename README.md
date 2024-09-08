@@ -71,15 +71,15 @@ Go through FAQs for AWS core services like **EC2, S3, Lambda, and RDS**, as they
 **4. Focus on Key Topics**
 
 
-**Cloud Concepts:** **Basic cloud computing definitions, AWS global infrastructure, advantages of cloud computing.**
+Cloud Concepts:- **Basic cloud computing definitions, AWS global infrastructure, advantages of cloud computing.**
 
 
-**Security and Compliance:** **Shared Responsibility Model, Identity and Access Management (IAM), AWS compliance programs, encryption basics.**
+Security and Compliance:- **Shared Responsibility Model, Identity and Access Management (IAM), AWS compliance programs, encryption basics.**
 
-**Technology:** **Understanding core AWS services (EC2, S3, Lambda, RDS, VPC), serverless architecture, compute, storage, and networking.**
+Technology:- **Understanding core AWS services (EC2, S3, Lambda, RDS, VPC), serverless architecture, compute, storage, and networking.**
 
 
-**Billing and Pricing:** **AWS Free Tier, pricing models (On-Demand, Reserved Instances, Spot), Total Cost of Ownership (TCO), AWS Billing Dashboard.**
+Billing and Pricing:- **AWS Free Tier, pricing models (On-Demand, Reserved Instances, Spot), Total Cost of Ownership (TCO), AWS Billing Dashboard.**
 
 
 
