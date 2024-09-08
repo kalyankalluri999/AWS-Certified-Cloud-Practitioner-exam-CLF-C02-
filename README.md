@@ -12,19 +12,39 @@ Format: Multiple choice and multiple response
 Cost: $100 (might vary by region)
 
 **2. Domains Covered:**
+
+
 Cloud Concepts: 26%
+
+
 Security and Compliance: 25%
+
+
 Technology: 33%
+
+
 Billing and Pricing: 16%
+
+
 Passing Score: Typically around 700 out of 1000
 
 
 **3. Study Resources**
+
+
 AWS Training and Certification Portal:
+
+
 a) AWS offers a free digital training course for Cloud Practitioner.
+
+
 b) Explore AWS Skill Builder (both free and paid courses available).
+
+
 **AWS Certified Cloud Practitioner Exam Guide:**
 Download the official exam guide from AWS for detailed objectives.
+
+
 **AWS Whitepapers:**
 Well-Architected Framework
 Overview of Amazon Web Services
@@ -34,14 +54,26 @@ Go through FAQs for AWS core services like **EC2, S3, Lambda, and RDS**, as they
 
 
 **3. Focus on Key Topics**
+
+
 **Cloud Concepts:** Basic cloud computing definitions, AWS global infrastructure, advantages of cloud computing.
+
+
 **Security and Compliance:** Shared Responsibility Model, Identity and Access Management (IAM), AWS compliance programs, encryption basics.
+
+
 **Technology:** Understanding core AWS services (EC2, S3, Lambda, RDS, VPC), serverless architecture, compute, storage, and networking.
+
+
 **Billing and Pricing:** AWS Free Tier, pricing models (On-Demand, Reserved Instances, Spot), Total Cost of Ownership (TCO), AWS Billing Dashboard.
 
 
 **4. Hands-On Experience**
+
+
 **Create an AWS Free Tier Account:** Use the AWS Free Tier to explore and practice basic tasks like launching EC2 instances, setting up S3 buckets, and exploring IAM.
+
+
 **AWS Labs and Tutorials:** Complete practical tutorials using AWS labs to gain hands-on experience with core services.
 
 
